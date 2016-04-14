@@ -3,4 +3,4 @@ aww.davidak.de aww.binary.lan.davidak.de
 root /var/www/aww/web
 
 gzip
-git git@github.com:davidak/aww.git
+#git git@github.com:davidak/aww.git
