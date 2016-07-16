@@ -1,6 +1,4 @@
-aww.binary.lan.davidak.de
-
-root /var/www/aww/web
-
-gzip
-#git git@github.com:davidak/aww.git
+aww.binary.lan.davidak.de {
+  root /var/www/aww/web
+  gzip
+}
