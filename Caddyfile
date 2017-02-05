@@ -1,4 +1,4 @@
-aww.binary.lan.davidak.de {
+aww.davidak.de {
   root /var/www/aww/web
   gzip
 }
